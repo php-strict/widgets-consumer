@@ -11,7 +11,7 @@ For this purposes widgets consumer define public methods to gets
 current scope and all places for current scope.
 
 See main [widgets](https://github.com/php-strict/widgets) repository 
-for detail description.
+for detail description and examples.
 
 ## Requirements
 
