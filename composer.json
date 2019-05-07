@@ -1,0 +1,23 @@
+{
+    "name": "php-strict/widgets-consumer",
+    "type": "library",
+    "description": "Widgets Consumer.",
+    "keywords": ["php","widget","consumer"],
+    "homepage": "https://github.com/php-strict/widgets-consumer",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Enikeishik",
+            "email": "enikeishik@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpStrict\\WidgetsConsumer\\": "src/"
+        }
+    }
+}
