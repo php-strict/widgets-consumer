@@ -1,6 +1,7 @@
 # Widgets Consumer
 
 [![Software License][ico-license]](LICENSE.txt)
+[![Codacy Badge][ico-codacy]][link-codacy]
 
 Widgets Consumer Interface repository.
 
@@ -26,3 +27,5 @@ composer require php-strict/widgets-consumer
 ```
 
 [ico-license]: https://img.shields.io/badge/license-GPL-brightgreen.svg?style=flat-square
+[ico-codacy]: https://api.codacy.com/project/badge/Grade/20d3903e6e824745b85905320123b5d7
+[link-codacy]: https://www.codacy.com/app/php-strict/widgets-consumer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=php-strict/widgets-consumer&amp;utm_campaign=Badge_Grade
